@@ -44,7 +44,7 @@ The dashboard provides actionable insights through:
 
 ## Data Source
 
-- [Kaggle – Supply Chain Logistics Dataset](https://www.kaggle.com/datasets/prachi13/customer-analytics)
+- [Logistics and Supply Chain Dataset - Kaggle](https://www.kaggle.com/datasets/datasetengineer/logistics-and-supply-chain-dataset)
 
 
 ## Author
