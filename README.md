@@ -13,11 +13,11 @@ A dynamic Tableau dashboard designed to analyze operational bottlenecks in a man
 
 The dashboard provides actionable insights through:
 
-- **Key KPIs**: Average Production Days, Defect Rate, Top Bottleneck Category
-- **Trend Analysis**: Delivery Deviation vs. Lead Time over months
-- **Stage-Wise Delay**: Avg. Days by Procurement, Production, Assembly, QC
-- **Root Cause Breakdown**: Bottlenecks by Category and Product Line
-- **Geographic Impact**: Delay Probability across U.S. states
+- **Key KPIs**: Avg. Production Days, Defect Rate, Top Bottleneck Category  
+- **Trend Line Chart**: Delivery Deviation vs. Lead Time  
+- **Stage-Level Analysis**: Avg. Days by Procurement, Production, Assembly, QC  
+- **Root Cause by Product**: Bottlenecks by Category and Product Line  
+- **Choropleth Map**: Delay Probability by U.S. state  
 
 ## Key Insights
 
@@ -31,13 +31,14 @@ The dashboard provides actionable insights through:
 
 - **Tableau**: For visual analytics and dashboard creation  
 - **Python (Pandas)**: For initial data cleaning and transformation  
-- **GitHub**: Version control
+- **GitHub**: Version control and Project hosting
 - 
 ## 📁 Files in this Repo
 
 | File                          | Description                                 |
 |-------------------------------|---------------------------------------------|
 | `SupplyChain_Dashboard.twbx`  | Tableau Packaged Workbook with dashboard    |
+| `script.ipynb`                | Preprocessing the data using python         |
 | `data/`                       | Preprocessed dataset used in Tableau        |
 | `screenshots/`                | Dashboard and chart visuals                 |
 | `README.md`                   | Project summary                             |
