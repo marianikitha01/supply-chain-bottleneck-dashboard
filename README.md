@@ -27,13 +27,13 @@ The dashboard provides actionable insights through:
 - **QC and Production** are the slowest stages
 - **Texas and Illinois** experience the highest shipment delays
 
-## 🧰 Tools Used
+## Tools Used
 
 - **Tableau**: For visual analytics and dashboard creation  
 - **Python (Pandas)**: For initial data cleaning and transformation  
 - **GitHub**: Version control and Project hosting
 - 
-## 📁 Files in this Repo
+## Files in this Repo
 
 | File                          | Description                                 |
 |-------------------------------|---------------------------------------------|
